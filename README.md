@@ -31,7 +31,7 @@ npm install
 
 El proyecto incluye los siguientes comandos que puedes ejecutar:
 
-- `npm run dev`: Inicia el servidor de desarrollo
+- `npm run dev`: Inicia el servidor de desarrollo (se ejecuta en http://localhost:4321)
 - `npm run build`: Construye el proyecto para producción
 - `npm run preview`: Previsualiza la versión de producción
 
